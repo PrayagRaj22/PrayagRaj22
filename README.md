@@ -107,7 +107,7 @@ Here are some of the tools and technologies I work with:
     </a>
     <br>
     <a href="https://auth.geeksforgeeks.org/user/PrayagRaj22">
-      <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=PrayagRaj22&theme=dark" alt="GeeksforGeeks Stats">
+      <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=prayagrajpvaa&theme=dark" alt="GeeksforGeeks Stats">
     </a>
   </p>
 
